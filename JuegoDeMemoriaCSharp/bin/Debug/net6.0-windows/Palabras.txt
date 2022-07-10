@@ -1,0 +1,10 @@
+Auto
+Cuadrado
+Perro
+Gato
+Arbol
+Ventana
+Computadora
+Reloj
+Elefante
+Telefono
